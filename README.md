@@ -41,7 +41,7 @@ Welcome to **Zed Shop**, your ultimate destination for top-quality FiveM scripts
 
 ### Clone the repository
 
-```sh
+sh
 git clone https://github.com/yourusername/zed-shop.git
 
 🛠️ Usage
