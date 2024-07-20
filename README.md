@@ -34,16 +34,10 @@ Welcome to **Zed Shop**, your ultimate destination for top-quality FiveM scripts
 
 ---
 
-## 🚀 Installation
 
-To get a local copy up and running, follow these simple steps:
 
-### Prerequisites
 
-Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/)
 
 ### Clone the repository
 
